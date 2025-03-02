@@ -1,1 +1,2 @@
-# logic-inside-us-py
+# Logic inside us
+# The Tasks: 1.Reuse the array 2.Display titles using 'for' loop 3.Display authors using 'for' loop 4.Check the age of books using 'if' 5.Check the age of books using 'if/else' 6.Check the age of books switched 7.Compare the publishing year 8.Combine the results using loops and conditionals

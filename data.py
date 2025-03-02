@@ -1,5 +1,3 @@
-# WRITE YOUR CODE HERE
-
 # Reuse the array
 
 favourite_movies = [
